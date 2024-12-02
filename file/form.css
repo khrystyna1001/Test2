@@ -1,0 +1,9 @@
+button {
+    background-color: orange;
+    margin-right: 1cm;
+}
+
+input[type="text"],
+input[type="email"]{
+    background-color: aqua;
+}
